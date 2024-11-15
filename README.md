@@ -72,5 +72,3 @@ Svelte/
 - Future versions will be tagged with compatible AI models
 
 ---
-
-⭐ Star this repository if you find this approach helpful!
